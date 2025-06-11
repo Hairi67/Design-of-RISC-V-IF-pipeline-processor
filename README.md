@@ -69,17 +69,17 @@ The processor is programmed in RISC-V assembly to behave as a scientific calcula
 ---
 
 ## 📁 Directory Structure
-RISC-V-IF-Calculator/
-├── README.md ← This file
-├── LICENSE ← Project license (MIT)
-├── doc/ ← Project documentation
-│ └── FinalCapstoneProjectReport.pdf
-├── src/ ← RTL source files
-│ ├── 00_src/ ← Verilog modules (ALU, FPU, etc.)
-│ └── 01_tb/ ← Simulation testbenches
-│ └── 02_test/ ← Assembly hex and value for ROM division
-├── asm/ ← RISC-V assembly calculator programs
-└── diagram/ ← Diagram for certain block design
+RISC-V-IF-Calculator/<br>
+├── README.md ← This file<br>
+├── LICENSE ← Project license (MIT)<br>
+├── doc/ ← Project documentation<br>
+│ └── FinalCapstoneProjectReport.pdf<br>
+├── src/ ← RTL source files<br>
+│ ├── 00_src/ ← Verilog modules (ALU, FPU, etc.)<br>
+│ └── 01_tb/ ← Simulation testbenches<br>
+│ └── 02_test/ ← Assembly hex and value for ROM division<br>
+├── asm/ ← RISC-V assembly calculator programs<br>
+└── diagram/ ← Diagram for certain block design<br>
 
 ---
 
