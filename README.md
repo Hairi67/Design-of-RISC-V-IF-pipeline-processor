@@ -64,7 +64,7 @@ The processor is programmed in RISC-V assembly to behave as a scientific calcula
   - Hazard Unit & Forwarding Logic
   - Branch Predictor (2-bit saturating counters)
 - **Peripherals:** Keypad interface, LCD controller
-- To know more, see [`diagram/FinalCapstoneProjectReport.pdf`](./diagram/Pipelined_RISCV_IF.png).
+- To know more, see [`diagram/Pipelined_RISCV_IF.png`](./diagram/Pipelined_RISCV_IF.png).
 
 ---
 
